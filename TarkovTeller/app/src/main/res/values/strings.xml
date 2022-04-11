@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TarkovTeller</string>
+    <string name="shortcutLabel">Find Price</string>
+    <string name="getItemsEndpoint">-aws url-</string>
+    <string name="getItemEndpoint">-tarkov market url-</string>
+    <string name="item"><u>Item</u></string>
+    <string name="tarkov_api_key">-tarkov market api key-</string>
+    <string name="tarkov_market_url"><u>Tarkov Market</u></string>
+    <string name="tarkov_wiki_url"><u>Tarkov Wiki</u></string>
+    <string-array name="PriceQueries">
+        <item>check price of $text1</item>
+    </string-array>
+</resources>
